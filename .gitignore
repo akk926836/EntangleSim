@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.sdf
+*.opensdf
+*.suo
+
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
